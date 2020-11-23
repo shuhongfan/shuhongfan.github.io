@@ -71,7 +71,7 @@ netease_comment: false
 # ba_track_id: ["c7f2ab34fede3d8d7f9f02a83e2fa803"]
 
 # Google Analytics
-ga_track_id: '183844559'            # Format: UA-xxxxxx-xx
+ga_track_id: 'G-E0CYX36DGD'            # Format: UA-xxxxxx-xx
 ga_domain: shuhongfan.github.io
 
 
