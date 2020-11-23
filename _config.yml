@@ -1,8 +1,8 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: SHF Blog
+SEOTitle: 舒洪凡的博客 | Hux Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: shfshuhongfan@gmail.com
 description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
 keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://huangxuan.me"              # your host, for absolute URL
@@ -13,12 +13,12 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+weibo_username:     shuhongfan
+zhihu_username:     shuhongfan
+github_username:    shuhongfan
+twitter_username:   shuhongfan
+facebook_username:  shuhongfan
+linkedin_username:  shuhongfan
 
 
 
@@ -30,7 +30,7 @@ paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN  
+#timezone: CN
 
 
 
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: shuhongfan
 
 # Netease settings
 netease_comment: false
@@ -67,12 +67,12 @@ netease_comment: false
 
 
 # Analytics settings
-# Baidu Analytics 
-# ba_track_id: [your track id]
+# Baidu Analytics
+ ba_track_id: c7f2ab34fede3d8d7f9f02a83e2fa803
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: '183844559'            # Format: UA-xxxxxx-xx
+ga_domain: shuhongfan.github.io
 
 
 
