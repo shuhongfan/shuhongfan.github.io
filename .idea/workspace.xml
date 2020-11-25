@@ -12,7 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="829800e3-1314-4113-ab31-15685b2809e5" name="默认的" comment="start">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,8 @@
       <workItem from="1606190590219" duration="5931000" />
       <workItem from="1606199103674" duration="4586000" />
       <workItem from="1606237225375" duration="898000" />
-      <workItem from="1606267458965" duration="3266000" />
+      <workItem from="1606267458965" duration="4675000" />
+      <workItem from="1606282949898" duration="1443000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1606146122393</created>
@@ -183,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606269900939</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="start">
+      <created>1606271033098</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1606271033098</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,10 +235,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1052" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606107614160" />
-    <state x="644" y="153" key="Vcs.Push.Dialog.v2" timestamp="1606269903377">
+    <state x="644" y="153" key="Vcs.Push.Dialog.v2" timestamp="1606271040044">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="644" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1606151097985" />
-    <state x="644" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606269903377" />
+    <state x="644" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606271040044" />
+    <state x="732" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606283476135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="732" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606283476135" />
   </component>
 </project>

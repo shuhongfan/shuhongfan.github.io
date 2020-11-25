@@ -62,7 +62,7 @@ kramdown:
 disqus_username: shuhongfan
 
 # Netease settings
-netease_comment: false
+netease_comment: true
 
 
 
@@ -101,36 +101,42 @@ page-mathjax: false
 
 
 # Friends
-#friends: [
-#  {
-#    #     title: "Su",
-#    #     href: "http://su.gallery/"
-#    # },{
-#    title: "乱序",
-#    href: "http://mida.re/"
-#  },{
-#    title: "Sherry Wu",
-#    href: "https://xuechundesign.github.io"
-#  },{
-#    title: "Luke 的自留地",
-#    href: "http://hmqk1995.github.io"
-#  },{
-#    title: "Ebn's Blog",
-#    href: "http://ebnbin.com/"
-#  },{
-#    title: "SmdCn's Blog",
-#    href: "http://blog.smdcn.net"
-#  },{
-#    title: "JiyinYiyong",
-#    href: "http://tiye.me/"
-#  },{
-#    title: "David's Game",
-#    href: "https://www.ruoyaowu.com/"
-#  },{
-#    title: "DHong Say",
-#    href: "http://dhong.co"
-#  },{
-#    title: "尹峰以为",
-#    href: "http://ingf.github.io/"
-#  }
-#]
+friends: [
+  {
+    title: "GitHub博客",
+    href: "https://github.com/shuhongfan"
+  },{
+    title: "GitHub仓库",
+    href: "http://shuhongfan.github.io/"
+  },{
+    title: "Gitee博客",
+    href: "https://gitee.com/shuhongfan"
+  },{
+    title: "Gitee仓库",
+    href: "http://shuhongfan.gitee.io/"
+  },{
+    title: "博客园",
+    href: "https://www.cnblogs.com/shuhongfan/"
+  },{
+    title: "CSDN",
+    href: "https://blog.csdn.net/qq_26347769/"
+  },{
+    title: "新浪博客",
+    href: "http://blog.sina.com.cn/shuhongfan"
+  },{
+    title: "优酷视频",
+    href: "http://i.youku.com/shuhongfan"
+  },{
+    title: "爱奇艺视频",
+    href: "https://www.iqiyi.com/u/2018595985"
+  },{
+    title: "腾讯视频",
+    href: "https://v.qq.com/s/videoplus/144170183"
+  },{
+    title: "搜狐视频",
+    href: "http://tv.sohu.com/user/326360003"
+  },{
+    title: "西瓜视频",
+    href: "https://www.ixigua.com/home/3343060935/"
+  }
+]
