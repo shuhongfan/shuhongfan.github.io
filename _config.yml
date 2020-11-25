@@ -103,16 +103,16 @@ page-mathjax: false
 # Friends
 friends: [
   {
-    title: "GitHub博客",
+    title: "GitHub仓库",
     href: "https://github.com/shuhongfan"
   },{
-    title: "GitHub仓库",
+    title: "GitHub博客",
     href: "http://shuhongfan.github.io/"
   },{
-    title: "Gitee博客",
+    title: "Gitee仓库",
     href: "https://gitee.com/shuhongfan"
   },{
-    title: "Gitee仓库",
+    title: "Gitee博客",
     href: "http://shuhongfan.gitee.io/"
   },{
     title: "博客园",
