@@ -16,8 +16,8 @@ RSS: false
 weibo_username:     shuhongfan
 zhihu_username:     shuhongfan
 github_username:    shuhongfan
-twitter_username:   shuhongfan
-facebook_username:  shuhongfan
+twitter_username:   shuhongfan_
+facebook_username:  shuhongfans
 linkedin_username:  shuhongfan
 
 
@@ -68,7 +68,7 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: ["c7f2ab34fede3d8d7f9f02a83e2fa803"]
+ba_track_id: c7f2ab34fede3d8d7f9f02a83e2fa803
 
 # Google Analytics
 ga_track_id: 'G-E0CYX36DGD'            # Format: UA-xxxxxx-xx
